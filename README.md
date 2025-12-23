@@ -19,5 +19,5 @@
 ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?logo=socket.io&logoColor=white)
 
 ### Codewars
-[![Codewars](https://www.codewars.com/users/diok4/badges/big)](https://www.codewars.com/users/diok4)
+[![Codewars](https://www.codewars.com/users/diok4/badges/large)](https://www.codewars.com/users/diok4)
 
