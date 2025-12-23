@@ -10,28 +10,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-<h2 align="center">⚒️ Technologies ⚒️</h2>
+<h2 align="center">⚒️ Techs⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,nextjs,reduxjs,vite,webpack,fsd" /><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,mui,styledcomponents,modulecss,sass,postman,insomnia" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,nextjs,redux,vite,webpack,fsd" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,postman,insomnia,firebase,supabase,mongodb,postgres,prisma" />
 </div>
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/asqarbekolimov/asqarbekolimov/output/github-contribution-grid-snake-dark.svg" />
-  <br/><br/><br/>
-</div>
-
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-
-<br/>
