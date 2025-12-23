@@ -1,18 +1,25 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=diok4.stats" />
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋!;" />
-</h1>
-<div align="center"> 
-  <a href="mailto:diokworkaet@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://uz.linkedin.com/in/diok" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-<h2 align="center">⚒️ Techs⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,nextjs,redux,vite,webpack" /><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,postman,firebase,supabase,mongodb,postgres,prisma" />
-</div>
+## Frontend developer
+
+## 🛠️ **Techs**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/-RTK_Query-764ABC?logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
+
+**APIs & Validation:**  
+![REST API](https://img.shields.io/badge/-REST_API-FF6C37?logo=node.js&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white)
+![Zod](https://img.shields.io/badge/-Zod-3E67B1?logo=zod&logoColor=white)
+![WebSocket](https://img.shields.io/badge/-WebSocket-010101?logo=socket.io&logoColor=white)
+
+### Codewars
+[![Codewars](https://www.codewars.com/users/diok4/badges/small)](https://www.codewars.com/users/diok4)
+
