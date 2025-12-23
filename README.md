@@ -13,6 +13,6 @@
 <h2 align="center">⚒️ Techs⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,nextjs,redux,vite,webpack,fsd" /><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,postman,insomnia,firebase,supabase,mongodb,postgres,prisma" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,react,nextjs,redux,vite,webpack" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,postman,firebase,supabase,mongodb,postgres,prisma" />
 </div>
