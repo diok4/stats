@@ -13,13 +13,11 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
-
-**APIs & Validation:**  
 ![REST API](https://img.shields.io/badge/-REST_API-FF6C37?logo=node.js&logoColor=white)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white)
 ![Zod](https://img.shields.io/badge/-Zod-3E67B1?logo=zod&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?logo=socket.io&logoColor=white)
 
 ### Codewars
-[![Codewars](https://www.codewars.com/users/diok4/badges/small)](https://www.codewars.com/users/diok4)
+[![Codewars](https://www.codewars.com/users/diok4/badges/big)](https://www.codewars.com/users/diok4)
 
